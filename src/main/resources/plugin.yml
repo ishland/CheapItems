@@ -1,0 +1,8 @@
+name: CheapItems
+version: 0.0.1
+author: Ink33
+description: Cheaper!
+
+main: org.smlk.ink33.cheapitems.CheapItems
+depend: [Slimefun]
+api-version: 1.15
